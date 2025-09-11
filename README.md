@@ -1,4 +1,4 @@
-# Ricardo M.S.M. Guimarães (a.k.a. guimasan - @gypsylab8)
+# Ricardo M.S.M. Guimarães (a.k.a. gsan - @gypsylab8)
 
 **Desenvolvedor Interdisciplinar | Interdisciplinary Developer**  
 IoT • Visão Computacional • Ciência Aberta • Arte e Tecnologia • Hardware Livre  
