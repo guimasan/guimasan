@@ -2,7 +2,7 @@
 
 **Desenvolvedor Interdisciplinar | Interdisciplinary Developer**  
 IoT • Visão Computacional • Ciência Aberta • Arte e Tecnologia • Hardware Livre  
-Computer Vision • Open Source • STEAM • Art-Science • Environmental Monitoring  
+Computer Vision • Open Source • STEAM • Art-Science • Human and Environmental Monitoring  
 
 ---
 
