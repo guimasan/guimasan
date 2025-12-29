@@ -25,7 +25,6 @@ I am an interdisciplinary developer, researcher and educator with 15+ years of e
 ## 🚀 Projetos de Destaque | Featured Projects
 
 - [**Mãe D'agua – Chicomendes**](https://github.com/guimasan/maedagua-chicomendes): Drone aquático autônomo open source para monitoramento ambiental.
-- [**Gabirus Urbanus**](https://github.com/guimasan/gabirusUrbanus): Interfaces experimentais para arte, ciência e tecnologia urbana.
 - [**EEO – Experimentações EletrOrgânicas**](https://github.com/guimasan/EEO): Sistemas físico-digitais interativos com flora e fauna.
 - [**T-box**](https://github.com/guimasan/T-box): Plataforma de automação e hardware livre para ciência aberta.
 - [**DustDuinoGPRS**](https://github.com/guimasan/DustDuinoGPRS): Monitoramento ambiental portátil com microcontroladores.
